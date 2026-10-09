@@ -8,7 +8,7 @@ Do firms invest more in research or less when a rival consolidates? We observe w
 their disclosures, and follow listed firms across many countries through the control-changing deals of their named rivals. Research
 spending rises after a watched rival's consolidation, a little in the year of the deal and more over the following years. The response
 follows the direction of attention, appearing after the deals of rivals the firm names but not of firms that name it. Deals of the same
-kind among industry peers are followed by no rise.
+kind among industry peers are followed by no comparable rise.
 
 - [The paper (PDF)](Lemkhente_VillegasSanchez_2026.pdf)
 - [Supplementary Appendix (PDF)](Appendix/Supplementary_Appendix.pdf): how the data are built, from the competitor records to the
