@@ -1,0 +1,14 @@
+[roots]
+raw  = "<folder of the licensed raw files>"
+data = "data"
+
+[sample]
+year_min = 2003
+year_max = 2021
+
+[raw]
+entity = "Factset_Revere/SYM/sym_entity.dta"
+entity_coverage = "Factset_Revere/ENT/ent_entity_coverage.dta"
+
+[tools]
+stata = "<path to the Stata executable>"
